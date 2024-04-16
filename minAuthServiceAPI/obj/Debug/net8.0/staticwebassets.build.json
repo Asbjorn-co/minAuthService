@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "+Sa6hHBxYjydQV/DMC30yovTY/uscGzB5ZQSWwse+KY=",
+  "Source": "minAuthServiceAPI",
+  "BasePath": "_content/minAuthServiceAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
