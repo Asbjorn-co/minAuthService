@@ -4,6 +4,10 @@ services:
     image: asbjorndev/min-auth-api:latest-dev
     expose:
       - "8080"
+    environment:
+      - Secret="2K7nT#gYm9^b3aF!5d8P6rE0oW1jS4qX"
+      - Issuer="asbjorn"
+
   nginx:
     image: nginx:latest
     volumes:
